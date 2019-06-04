@@ -17,7 +17,15 @@
   /* padding: 4px; */
   background-color: orange;
 
+  width: 120px;
+  height: 80px;
+
 }
 p {
   text-align: center;
+}
+
+.cards1{
+  width: 130px;
+  height: 100px;
 }

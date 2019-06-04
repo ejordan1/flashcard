@@ -20,7 +20,7 @@ $(document).ready(function() {
     $(".flashBack1").toggle();
   });
 
-  $(".flashBack1").click(function(){
+  $(".cards1").click(function(){
     $("body").removeClass();
     $(".flashFront1").toggle();
     $(".flashBack1").toggle();
