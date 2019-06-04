@@ -1,0 +1,23 @@
+.flashBack1{
+  display: none;
+}
+
+.flashBack2{
+  display: none;
+}
+
+.flashBack3{
+  display: none;
+}
+
+.well{
+  float: right;
+  /* margin: 12px; */
+  border: 2px solid green;
+  /* padding: 4px; */
+  background-color: orange;
+
+}
+p {
+  text-align: center;
+}
